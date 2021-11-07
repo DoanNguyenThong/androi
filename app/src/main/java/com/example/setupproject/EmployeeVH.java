@@ -15,5 +15,6 @@ public class EmployeeVH extends RecyclerView.ViewHolder{
         txt_name = itemView.findViewById(R.id.txt_name);
         txt_position = itemView.findViewById(R.id.txt_position);
 //        txt_option = itemView.findViewById(R.id.txt_option);
+        //day la thong dep trai ahihi
     }
 }
